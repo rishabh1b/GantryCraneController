@@ -5,7 +5,7 @@ A controller based on LQR and LQG techniques to obtain a suitable response with 
   <img src="https://github.com/rishabh1b/GantryCraneController/blob/master/finalOutput.gif?raw=true" alt="Response to input of 10 meters of the cart"/>
 </p>
 
-*You need MATLAB preferrably a version later than 2015b.*
+*You need MATLAB & Simulink with SimMechanics workbench support. Preferrably a version later than 2015b.*
 
 ### Running on your system
 1. `git clone https://github.com/rishabh1b/GantryCraneController.git`
